@@ -1,0 +1,5 @@
+# All image jpg files
+*.jpg
+
+# Model files
+models/
