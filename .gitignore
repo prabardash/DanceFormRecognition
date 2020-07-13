@@ -1,5 +1,6 @@
 # All image jpg files
 *.jpg
+*.JPG
 
 # Model files
-models/
+.h5
