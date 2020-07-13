@@ -2,7 +2,7 @@
 ---
 This challenge was conducted by [Hackerearth](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/) where the dataset contained images of 8 different dance forms.
 
-![Dance Forms](sample.jpg)
+![Dance Forms](sample.JPG)
 
 
 
